@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
     },
     tableCell: {
         border: '2px groove white',
-        backgroundColor: 'blue',
+        backgroundColor: '#5DADE2',
         height: 20,
         width:30
     },
